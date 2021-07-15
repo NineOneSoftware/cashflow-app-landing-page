@@ -32,27 +32,27 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Insight
-    description                           : Easily view your expected commission for the month as well as your top selling products; all from Commission's dashboard.
+    description                           : Easily track the flow of cash between accounts visually see what your balances will be ahead of time.
     fontawesome_icon_name                 : sync
 
   - title                                 : Data at a Glance
-    description                           : With an intuitive filtering system you can easily view all of your transactions and commissions by business, product or time period.
+    description                           : With an intuitive filtering system you can easily view all of your transactions and cashflow in an innovative calendar display.
     fontawesome_icon_name                 : adjust
 
   - title                                 : History
     description                           : It feels good to have all of your data in one place. View a transaction's details that happened yesterday... or last year.
     fontawesome_icon_name                 : magic
   
-  - title                                 : Reminders
-    description                           : Need help remembering to input your transactions? Commission can notify you to input your transactions on the days of the week that you specify.
+  - title                                 : Budget
+    description                           : Organize your transaction data by category to see what your top spending categories are.
     fontawesome_icon_name                 : star
 
-  - title                                 : Data Export
-    description                           : Need to send your commission data to an accountant or co-worker? Commission provides an easy-to-use data exporter that will export all of your commission data as a CSV file.
+  - title                                 : Shared Accounts
+    description                           : Connect your account with a friend or family member to view and update transactions on a shared account together.
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Unlimited
-    description                           : Add an unlimited amount of businesses and products to track commission on
+    description                           : Add an unlimited amount of accounts, transactions as well as shared accounts.
     fontawesome_icon_name                 : infinity
 
 
