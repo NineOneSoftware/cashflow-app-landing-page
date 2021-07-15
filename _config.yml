@@ -1,5 +1,5 @@
 #page title
-page_title                                :                                           # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
+page_title                                : "Cashflow: Budgeting & Cashflow"                                          # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
 # App Info
 ios_app_id                                : 1573469723                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
@@ -12,7 +12,7 @@ presskit_download_link                    :                                     
 app_icon                                  :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Keep track of your cashflow and budget
+app_description                           : Easily keep track of the inflow and outflow of cash between your accounts.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -32,15 +32,15 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Insight
-    description                           : Easily track the flow of cash between accounts visually. See what each account's balances will be on certain days of the calendar.
+    description                           : Easily track the flow of cash between accounts. See what each account's balances will be on certain days of the month.
     fontawesome_icon_name                 : sync
 
   - title                                 : Data at a Glance
-    description                           : With an innovative calendar display you can easily view all of your transactions and cashflow balances at a glance.
+    description                           : With an innovative calendar display you can easily view all of your inflows, outflows and balances for an account at a glance.
     fontawesome_icon_name                 : adjust
 
   - title                                 : History
-    description                           : It feels good to have all of your data in one place. View a transaction's details that happened yesterday... or last year.
+    description                           : It feels good to have all of your data in one place. Input and view transaction details that happened yesterday... or last year.
     fontawesome_icon_name                 : magic
   
   - title                                 : Budget
