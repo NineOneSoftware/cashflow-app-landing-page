@@ -32,11 +32,11 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
   - title                                 : Insight
-    description                           : Easily track the flow of cash between accounts visually see what your balances will be ahead of time.
+    description                           : Easily track the flow of cash between accounts visually. See what each account's balances will be on certain days of the calendar.
     fontawesome_icon_name                 : sync
 
   - title                                 : Data at a Glance
-    description                           : With an intuitive filtering system you can easily view all of your transactions and cashflow in an innovative calendar display.
+    description                           : With an innovative calendar display you can easily view all of your transactions and cashflow balances at a glance.
     fontawesome_icon_name                 : adjust
 
   - title                                 : History
