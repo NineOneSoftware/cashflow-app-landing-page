@@ -18,7 +18,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Nineone Software Inc.                                
-your_link                                 :                      
+your_link                                 : https://www.nineonesoftware.com           
 your_city                                 : Vancouver                                
 email_address                             : nineonesoftware@gmail.com
 facebook_username                         :                                           
@@ -44,7 +44,7 @@ features                                  :
     fontawesome_icon_name                 : magic
   
   - title                                 : Budget
-    description                           : Organize your transaction data by category to see what your top spending categories are.
+    description                           : Organize your transactions in way that allows you to see what your top spending categories are.
     fontawesome_icon_name                 : star
 
   - title                                 : Shared Accounts
@@ -52,7 +52,7 @@ features                                  :
     fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Unlimited
-    description                           : Add an unlimited amount of accounts, transactions as well as shared accounts.
+    description                           : Add an unlimited amount of accounts, transactions and shared accounts.
     fontawesome_icon_name                 : infinity
 
 
